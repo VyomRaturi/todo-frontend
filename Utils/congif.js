@@ -1,6 +1,6 @@
-export const API_URL = process.env.SEPOLIA_RPC_URL;
-export const PRIVATE_KEY = process.env.PRIVATE_KEY;
-export const CONTRACT_ADDRESS = process.env.CONTRACT_ADDRESS;
+export const API_URL = "https://eth-sepolia.g.alchemy.com/v2/DWfLUOLW0okSzkDi06KIplylU7y7Zm1B";
+export const PRIVATE_KEY = "54c621cce6e622a643729f420d0278d83c05a548725fdfbad99955a17403c96a";
+export const CONTRACT_ADDRESS = "0xcA17ED976de4D47a0599747dD0596Ad990175700";
 export const CONTRACT_ABI = [
   {
     "inputs": [],
